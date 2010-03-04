@@ -1,0 +1,107 @@
+<rss version="0.92" >
+    <channel>
+        <title>My JIRA</title>
+        <link>http://jira.source.link</link>
+        <description>An XML representation of a search request</description>
+        <language>en-us</language>     <issue start="0" end="4" total="4" />     <build-info>
+            <version>3.13</version>
+            <build-number>330</build-number>
+            <build-date>27-08-2008</build-date>
+            <edition>Enterprise</edition>
+        </build-info>
+
+        <item>
+            <title>[BUG-001] Bug number 1</title>
+            <link>http://jira.source.link/browse/BUG-001</link>
+
+            <description>This is the bug number 1</description>
+            <environment></environment>
+            <key id="123">BUG-001</key>
+            <summary>The bug number 1</summary>
+            <type id="3" iconUrl="http://jira.source.link/images/icons/task.gif">Task</type>
+            <priority id="4" iconUrl="http://jira.source.link/images/icons/priority_minor.gif">Minor</priority>
+            <status id="1" iconUrl="http://jira.source.link/images/icons/status_open.gif">Open</status>
+            <resolution id="-1">Unresolved</resolution>
+
+
+            <assignee username="user1">Jonny Deep</assignee>
+            <reporter username="user2">Arnold Schwarnegger</reporter>
+
+            <created>Thu, 11 Feb 2010 11:02:28 -0600 (CST)</created>
+            <updated>Thu, 11 Feb 2010 21:19:59 -0600 (CST)</updated>
+
+            <due>Mon, 15 Feb 2010 00:00:00 -0600 (CST)</due>
+
+            <votes>0</votes>
+
+            <comments>
+                <comment id="987" author="arnold@california.com" created="Thu, 11 Feb 2010 13:54:27 -0600 (CST)"  >
+                    Hi all, this is my comment regarding the bug.
+                </comment>
+                <comment id="988" author="obama@whitehouse.com" created="Thu, 11 Feb 2010 13:58:35 -0600 (CST)"  >
+                    I think this bug does not exist.
+                </comment>
+                <comment id="999" author="arnold@california.com" created="Thu, 11 Feb 2010 21:19:59 -0600 (CST)"  >
+                    Ok, so I will close it!
+                </comment>
+            </comments>
+
+            <attachments>
+            </attachments>
+
+            <subtasks>
+            </subtasks>
+
+            <customfields>
+            </customfields>
+
+        </item>
+
+        <item>
+            <title>[BUG-002] Bug number 2</title>
+            <link>http://jira.source.link/browse/BUG-002</link>
+
+            <description>This is the bug number 2</description>
+            <environment></environment>
+            <key id="123">BUG-002</key>
+            <summary>The bug number 2</summary>
+            <type id="3" iconUrl="http://jira.source.link/images/icons/task.gif">Task</type>
+            <priority id="4" iconUrl="http://jira.source.link/images/icons/priority_minor.gif">Minor</priority>
+            <status id="1" iconUrl="http://jira.source.link/images/icons/status_open.gif">Open</status>
+            <resolution id="-1">Unresolved</resolution>
+
+
+            <assignee username="user1">Jonny Deep</assignee>
+            <reporter username="user2">Arnold Schwarnegger</reporter>
+
+            <created>Thu, 11 Feb 2010 11:02:28 -0600 (CST)</created>
+            <updated>Thu, 11 Feb 2010 21:19:59 -0600 (CST)</updated>
+
+            <due>Mon, 15 Feb 2010 00:00:00 -0600 (CST)</due>
+
+            <votes>0</votes>
+
+            <comments>
+                <comment id="987" author="arnold@california.com" created="Thu, 11 Feb 2010 13:54:27 -0600 (CST)"  >
+                    Hi all, this is my comment regarding the bug.
+                </comment>
+                <comment id="988" author="obama@whitehouse.com" created="Thu, 11 Feb 2010 13:58:35 -0600 (CST)"  >
+                    I think this bug does not exist.
+                </comment>
+                <comment id="999" author="arnold@california.com" created="Thu, 11 Feb 2010 21:19:59 -0600 (CST)"  >
+                    Ok, so I will close it!
+                </comment>
+            </comments>
+
+            <attachments>
+            </attachments>
+
+            <subtasks>
+            </subtasks>
+
+            <customfields>
+            </customfields>
+
+        </item>
+    </channel>
+</rss>
